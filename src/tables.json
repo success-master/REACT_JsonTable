@@ -1,0 +1,19 @@
+{ 
+   "type":"table",
+   "rows":[ 
+      { 
+         "column1":"<p><strong>test1</strong></p>",
+         "column2":"<p><em>test2</em></p>",
+         "column3":"<p><strong>test3</strong></p>",
+         "column4":"<p><em>test4</em></p>",
+         "column5":"<p><strong>test5</strong></p>"
+      },
+      { 
+         "column1":"<p>column 1 content</p>",
+         "column2":"<p>column 2 content</p>",
+         "column3":"<p>column 3 content</p>",
+         "column4":"<p>column 4 content</p>",
+         "column5":"<p>column 5 content</p>"
+      }
+   ]
+}
